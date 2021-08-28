@@ -23,4 +23,4 @@ To delete a scheduled event without replacing, delete the existing event and sav
 
 Github repo - https://github.com/Samihat11/work-day-scheduler
 
-Deployed Url-
+Deployed Url- https://samihat11.github.io/work-day-scheduler/
